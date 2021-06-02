@@ -18,6 +18,6 @@ public class pruebamatematica {
         //no entiendo nada :v
         int res=ob1.sumar1();
         System.out.println("res="+res);
-        System.out.println("")
+        System.out.println("el resultado de la suma es"+ob1.sumar1());
     }
 }
