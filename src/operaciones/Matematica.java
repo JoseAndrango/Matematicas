@@ -15,4 +15,8 @@ class Matematica {
     public void sumar(){
         int resultado = a + b;
         System.out.println("el resultado es "+resultado);}
+    public int sumar1 (){
+        int resultado  = a+b;
+        return resultado;
+    }
 }
